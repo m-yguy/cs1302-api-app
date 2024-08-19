@@ -11,39 +11,6 @@ the University of Georgia.
 
 
 
-## Deadlines
-
-This project has **three deadline options**. Students who perform their
-final submission via the submit command before the date/times listed
-below automatically receive the associated Submission-Based (SB) extra
-credit.
-
-| \# | Bonus | Deadline Option                       |
-|----|-------|---------------------------------------|
-| 1  | +10   | SAT 2024-05-04 (MAY 04) @ 5:00 PM EST |
-| 2  | +5    | SUN 2024-05-05 (MAY 05) @ 5:00 PM EST |
-| 3  | +0    | MON 2024-05-06 (May 06) @ 5:00 PM EST |
-
-
-For both logistical and policy-related reasons, the usual late-work
-policy will not apply for this project, and no late submissions will be
-accepted after the last deadline option mentioned above. **To be clear,
-final project submissions received after the last deadline option will
-NOT be graded.**
-
-## Academic Honesty
-
-You agree to the Academic Honesty policy as outlined in the course
-syllabus and the University honesty website. Furthermore, you must
-adhere to the copyright notice and licensing information at the bottom
-of this document.
-
-## Updates
-
-If any updates to this project are needed after it is released, then
-they will be announced on Piazza. Updates related to correcting typos
-will probably not be announced unless they change the meaning of some
-requirement.
 
 ## Project Description
 
