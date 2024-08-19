@@ -9,7 +9,7 @@ This document contains the description for the **cs1302-api-app**
 project assigned to the students in the Spring 2024 CSCI 1302 classes at
 the University of Georgia.
 
-**Please read the entirety of this file before beginning your project.**
+
 
 ## Deadlines
 
